@@ -1,6 +1,6 @@
 **CREATED CRUD API according to assignment** 
 
-### 1. Retrieve a List of Invoices
+###  GET AND POST EXample for Invoices
 **Endpoint**: `/invoices/`
 **Method**: `GET`
 **Example**:
