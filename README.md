@@ -46,7 +46,7 @@ http GET https://your-api-base-url.com/invoices/1/
 
 
 
-**POST**:
+**### 2. POST:**
 **Create a New Invoice**
 Endpoint: /invoices/
 Method: POST
